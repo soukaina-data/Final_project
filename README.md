@@ -10,3 +10,8 @@ Purpose
 
 The purpose of this project was to gain introductory exposure to programmatic data analysis concepts, by analysing the factors that determined whether a passenger survived the Titanic disaster or did not. The project makes heavy use of NumPy, Pandas, TFLearn for Neural Network Classifier and Data Visualization Libraries.
 
+
+
+
+
+
